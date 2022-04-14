@@ -1,0 +1,32 @@
+{
+  "name": "time-to-fry",
+  "version": "1.0.0",
+  "description": "library to calculate minimum time that is needed to fry some amount of cutlets in case of restricted frying pan capacity",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfolomkin/time-to-fry.git"
+  },
+  "keywords": [
+    "calculator",
+    "cooking",
+    "cooking time",
+    "frying time",
+    "frying",
+    "pan",
+    "cutlet"
+  ],
+  "author": "dfolomkin",
+  "license": "ISC",
+  "types": "./index.d.ts",
+  "bugs": {
+    "url": "https://github.com/dfolomkin/time-to-fry/issues"
+  },
+  "homepage": "https://github.com/dfolomkin/time-to-fry#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
